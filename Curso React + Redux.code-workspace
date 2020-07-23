@@ -4,5 +4,11 @@
       "path": "./fundamentos-react"
     }
   ],
-  "settings": {}
+  "settings": {
+    "cSpell.words": [
+      "Aleatorio",
+      "Parametro",
+      "basicos"
+    ]
+  }
 }
