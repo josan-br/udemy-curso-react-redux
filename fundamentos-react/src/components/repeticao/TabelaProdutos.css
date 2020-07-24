@@ -1,0 +1,15 @@
+.products_table table {
+  width: 100%;
+}
+
+.products_table th {
+  background-color: #008b8b;;
+}
+
+.products_table .par {
+  background-color: rgb(133, 130, 130);
+}
+
+.products_table .impar {
+  background-color: #ccc;
+}
