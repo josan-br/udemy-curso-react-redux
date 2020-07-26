@@ -1,7 +1,10 @@
 {
   "folders": [
     {
-      "path": "./fundamentos-react"
+      // "path": "./fundamentos-react"
+    },
+    {
+      "path": "./calculadora"
     }
   ],
   "settings": {
