@@ -1,10 +1,16 @@
 {
   "folders": [
     {
-      "path": "./fundamentos-react"
+      "name": "Fundamentos do React",
+      // "path": "./fundamentos-react"
     },
     {
-      "path": "./calculadora"
+      "name": "Calculadora",
+      // "path": "./calculadora"
+    },
+    {
+      "name": "Todo App",
+      "path": "./todo-app"
     }
   ],
   "settings": {
