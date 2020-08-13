@@ -3,8 +3,12 @@ import "modules/font-awesome/css/font-awesome.min.css";
 
 import React from "react";
 
+import ToDo from "../todo/todo";
+import About from "../about/about";
+
 export default (props) => (
   <div className="container">
-    <h1>Teste</h1>
+    <ToDo />
+    <About />
   </div>
 );
