@@ -5,9 +5,11 @@ import React from "react";
 
 import ToDo from "../todo/todo";
 import About from "../about/about";
+import Menu from "../template/menu";
 
 export default (props) => (
   <div className="container">
+    <Menu />
     <ToDo />
     <About />
   </div>
