@@ -4,7 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": ""
+    "start": "webpack-dev-server --progress --colors --inline --hot",
+    "build": "webpack --progress -p"
   },
   "devDependencies": {
     "axios": "^0.19.2",
