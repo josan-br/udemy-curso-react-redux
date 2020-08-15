@@ -1,10 +1,12 @@
 import React, { Component } from "react";
 
+import PageHeader from "../template/pageHeader";
+
 class ToDo extends Component {
   render() {
     return (
       <div>
-        <h1>ToDo</h1>
+        <PageHeader name="Tarefas" small="Cadastro" />
       </div>
     );
   }
