@@ -2,11 +2,11 @@
   "folders": [
     {
       "name": "Fundamentos do React",
-      // "path": "./fundamentos-react"
+      "path": "./fundamentos-react"
     },
     {
       "name": "Calculadora",
-      // "path": "./calculadora"
+      "path": "./calculadora"
     },
     {
       "name": "Todo App",
